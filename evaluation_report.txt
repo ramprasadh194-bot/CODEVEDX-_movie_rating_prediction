@@ -1,0 +1,13 @@
+Model evaluation report
+======================
+
+mae: 0.7887
+mse: 1.0792
+rmse: 1.0388
+r2: 0.4195
+adjusted_r2: 0.4072
+
+Residual Plot: /Users/ramprasadh/main_project/movie_rating_prediction/reports/residual_plot.png
+Prediction vs Actual: /Users/ramprasadh/main_project/movie_rating_prediction/reports/prediction_vs_actual.png
+Error Distribution: /Users/ramprasadh/main_project/movie_rating_prediction/reports/error_distribution.png
+Feature Importance: /Users/ramprasadh/main_project/movie_rating_prediction/reports/feature_importance.png
